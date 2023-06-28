@@ -1,2 +1,2 @@
-# solotravel-marknine
-Created with CodeSandbox
+# solotravel
+Get suggestions about places to travel to.
